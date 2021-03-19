@@ -1,0 +1,4 @@
+teste de pull         
+┌──(racon㉿ghostracon)-[~/Área de trabalho/aula_fatec/aulafatecallan]
+└─$ ls
+README.md  ttzin.txt
